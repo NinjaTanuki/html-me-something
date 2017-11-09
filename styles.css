@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Flamenco');
+
+body { 
+     background-color: #;
+     font-family: 'Flamenco', cursive;
+     background-image: url("https://wallpaperscraft.com/image/tamagosho_sky_stars_telescope_night_window_102167_1920x1080.jpg");}
+
+ 
+::-webkit-scrollbar {
+     display: none;
+     }
+
+#art {
+     background-color: #000000;
+     width: 1000px;
+     height:100%;
+     top: 0;
+     left: 0;
+     bottom: 0;
+     right:0;
+     overflow: auto;
+     position: absolute;
+     padding: 20px;
+     margin: auto;
+     text-align: center ;
+     color: #fff;
+ }
+
+ a:active, a:visited, a:link {
+     color: #f1f1f1;
+     }
+
+ a:hover {
+     color:  #2f00ff;
+     font-weight:bold;
+     }
+
+.invert {
+     padding: 20px;
+     background-color: #111;
+     text-align: left;
+     }
+h2{
+    font-size: 28px;
+}     
+p{
+    font-size: 20px;
+}     
